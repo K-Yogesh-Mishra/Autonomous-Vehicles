@@ -7,7 +7,7 @@ The rapid progression of autonomous vehicles (AVs) necessitates the implementati
 ## STEP 1: Design simulation scenarios
 To design the simulation scenarios, the Automated Driving Toolbox is required. The driving scenario designer is used to design scenario test cases, configure sensors, and generate synthetic object detections. Driving Scenario Designer app helps us to create artificial driving scenarios for testing autonomous vehicles. The test scenarios are developed using the Driving Scenario Designer app which allows the users to create a scenario by drag and drop interface which will enable them to place roads, vehicles, pedestrians, and other actors.
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/1c645771-f6dc-417b-81cc-e35a4eb06699">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/1c645771-f6dc-417b-81cc-e35a4eb06699">
 
 
 ## STEP 2: Create a versatile scenario dataset to assess object behavior
@@ -15,20 +15,20 @@ A versatile dataset containing both safe and risky scenario test cases is requir
 
 Safe scenario:
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/1c3d2386-d1f9-4b03-96d3-42de23468f83">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/1c3d2386-d1f9-4b03-96d3-42de23468f83">
 
 Risky scenario:
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/d726f162-4f3a-408d-ad06-b24cb585f1dc">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/d726f162-4f3a-408d-ad06-b24cb585f1dc">
 
 ## STEP 3: Mounting the sensor on the ego vehicle
 Sensors, such as radar and camera, are to be mounted on the ego vehicle to acquire the data. These sensors are placed in such a way that they get maximum coverage of the whole scenario. These sensors acquire the data from the scenario test cases and are stored in a MATLAB function from which the sensor data can be extracted.
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/3009ee14-bfca-4966-adf4-9096c876f1a3">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/3009ee14-bfca-4966-adf4-9096c876f1a3">
 
 A Simulink model is formed with this scenario test cases.
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
 
 The scenario environment is visible clearly in the bird's eye plot wherein we get a clear view of the scenario, including the sensors.
 
@@ -52,7 +52,7 @@ For testing purposes, a new test scenario test case is developed and then it is 
 
 Test scenario:
 
-<img width="276" alt="w" src="https://github.com/user-attachments/assets/52767eda-3b3d-4d60-a8f4-53f71afe43f3">
+<img width="290" alt="w" src="https://github.com/user-attachments/assets/52767eda-3b3d-4d60-a8f4-53f71afe43f3">
 
 Output:
 
@@ -66,5 +66,6 @@ Safe scenario
 
 Risky scenario:
 
-![Screenshot_2024_07_30_193608_07302024193838](https://github.com/user-attachments/assets/85e247ec-ddae-4260-bac1-8db2f3bdfaec)
+![image](https://github.com/user-attachments/assets/7a6795a0-95ee-4f12-acac-d47fb07e1528)
+
 
