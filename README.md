@@ -28,7 +28,7 @@ Sensors, such as radar and camera, are to be mounted on the ego vehicle to acqui
 
 A Simulink model is formed with this scenario test cases.
 
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
 
 The scenario environment is visible clearly in the bird's eye plot wherein we get a clear view of the scenario, including the sensors.
 
@@ -52,11 +52,11 @@ For testing purposes, a new test scenario test case is developed and then it is 
 
 Test scenario:
 
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/b9bec318-8e5e-47ba-a992-39f911dd5052">
+![image](https://github.com/user-attachments/assets/0da09484-6070-466c-9d51-ec9de8b9fe86)
 
 Output:
 
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/b9d35c5a-0170-4736-a4ed-b5cdb33a4c52">
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/b9d35c5a-0170-4736-a4ed-b5cdb33a4c52">                                                                
 
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/79297a83-4524-4f69-b350-65f6c7179db7">
