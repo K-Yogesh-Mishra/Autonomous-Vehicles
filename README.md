@@ -52,7 +52,7 @@ For testing purposes, a new test scenario test case is developed and then it is 
 
 Test scenario:
 
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/b0336044-6790-48f3-bafa-8a272602688b">
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/b0336044-6790-48f3-bafa-8a272602688b">
 
 Output:
 
