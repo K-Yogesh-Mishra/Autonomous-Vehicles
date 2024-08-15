@@ -62,12 +62,12 @@ Output:
 
 Safe scenario
 
-![image](https://github.com/user-attachments/assets/acd096c1-fbe9-471f-807b-3af1717774f0)
-
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/86136a1c-8184-4eb9-acfc-79080e800aef">
 
 Risky scenario:
 
-![image](https://github.com/user-attachments/assets/744f014d-4e9c-4aae-9c5b-dde5d0cf56a5)
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/62579335-112b-41f7-8114-8c7499934f45">
+
 
 
 
