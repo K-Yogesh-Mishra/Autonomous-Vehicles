@@ -56,7 +56,9 @@ Test scenario:
 
 Output:
 
-![image](https://github.com/user-attachments/assets/2910e2f4-e91d-411c-8c43-02fd3748d2bc)
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/b9d35c5a-0170-4736-a4ed-b5cdb33a4c52">
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/79297a83-4524-4f69-b350-65f6c7179db7">
 
 3D model:
 
