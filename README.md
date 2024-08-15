@@ -7,7 +7,7 @@ The rapid progression of autonomous vehicles (AVs) necessitates the implementati
 ## STEP 1: Design simulation scenarios
 To design the simulation scenarios, the Automated Driving Toolbox is required. The driving scenario designer is used to design scenario test cases, configure sensors, and generate synthetic object detections. Driving Scenario Designer app helps us to create artificial driving scenarios for testing autonomous vehicles. The test scenarios are developed using the Driving Scenario Designer app which allows the users to create a scenario by drag and drop interface which will enable them to place roads, vehicles, pedestrians, and other actors.
 
-          <img width="276" alt="image" src="https://github.com/user-attachments/assets/1c645771-f6dc-417b-81cc-e35a4eb06699">
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/1c645771-f6dc-417b-81cc-e35a4eb06699">
 
 
 ## STEP 2: Create a versatile scenario dataset to assess object behavior
