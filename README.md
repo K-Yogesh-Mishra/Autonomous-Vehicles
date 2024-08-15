@@ -19,16 +19,16 @@ Safe scenario:
 
 Risky scenario:
 
-<img width="290" alt="image" src="https://github.com/user-attachments/assets/d726f162-4f3a-408d-ad06-b24cb585f1dc">
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/d726f162-4f3a-408d-ad06-b24cb585f1dc">
 
 ## STEP 3: Mounting the sensor on the ego vehicle
 Sensors, such as radar and camera, are to be mounted on the ego vehicle to acquire the data. These sensors are placed in such a way that they get maximum coverage of the whole scenario. These sensors acquire the data from the scenario test cases and are stored in a MATLAB function from which the sensor data can be extracted.
 
-<img width="279" alt="image" src="https://github.com/user-attachments/assets/3009ee14-bfca-4966-adf4-9096c876f1a3">
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/3009ee14-bfca-4966-adf4-9096c876f1a3">
 
 A Simulink model is formed with this scenario test cases.
 
-<img width="405" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
 
 The scenario environment is visible clearly in the bird's eye plot wherein we get a clear view of the scenario, including the sensors.
 
@@ -52,7 +52,7 @@ For testing purposes, a new test scenario test case is developed and then it is 
 
 Test scenario:
 
-<img width="331" alt="w" src="https://github.com/user-attachments/assets/52767eda-3b3d-4d60-a8f4-53f71afe43f3">
+<img width="276" alt="w" src="https://github.com/user-attachments/assets/52767eda-3b3d-4d60-a8f4-53f71afe43f3">
 
 Output:
 
