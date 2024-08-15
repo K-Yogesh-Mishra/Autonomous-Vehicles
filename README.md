@@ -62,7 +62,8 @@ Output:
 
 Safe scenario
 
-![Screenshot_2024_07_30_193343_07302024193838](https://github.com/user-attachments/assets/c059218e-b8ac-4ee3-acbf-933ecc72d903)
+![image](https://github.com/user-attachments/assets/acd096c1-fbe9-471f-807b-3af1717774f0)
+
 
 Risky scenario:
 
