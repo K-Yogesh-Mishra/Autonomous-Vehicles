@@ -12,14 +12,20 @@ To design the simulation scenarios, the Automated Driving Toolbox is required. T
 
 ## STEP 2: Create a versatile scenario dataset to assess object behavior
 A versatile dataset containing both safe and risky scenario test cases is required for the training and testing of the machine-learning model. So, 21 scenario cases have been developed for the implementation of this model.
+Safe scenario:
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/1c3d2386-d1f9-4b03-96d3-42de23468f83">
 
+Risky scenario:
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/d726f162-4f3a-408d-ad06-b24cb585f1dc">
 
 ## STEP 3: Mounting the sensor on the ego vehicle
 Sensors, such as radar and camera, are to be mounted on the ego vehicle to acquire the data. These sensors are placed in such a way that they get maximum coverage of the whole scenario. These sensors acquire the data from the scenario test cases and are stored in a MATLAB function from which the sensor data can be extracted.
 
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/3009ee14-bfca-4966-adf4-9096c876f1a3">
 
 A Simulink model is formed with this scenario test cases.
 
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/60341f7a-f351-4cc5-98a1-7a541a1b953d">
 
 The scenario environment is visible clearly in the bird's eye plot wherein we get a clear view of the scenario, including the sensors.
 
@@ -27,8 +33,6 @@ The scenario environment is visible clearly in the bird's eye plot wherein we ge
 This scenario data is then exported into a MATLAB function. This MATLAB function contains all the data of the sensor and scenario readings. The sensor and scenario data from all the test cases are loaded into a single file to implement the machine-learning algorithms.
 
 The Scenario Reader app extracts the positions of actors and roads from scenario files created with the Driving Scenario Designer app. It then outputs this information in the coordinate system of either the ego vehicle or the world coordinate system.
-
-
 
 
 ### Loading data into a single file and labeling the data:
@@ -42,4 +46,17 @@ The object classification system operates by continuously monitoring the sensor'
 
 ## STEP 6: Testing of the model
 For testing purposes, a new test scenario test case is developed and then it is checked for the object behavior classification. Here, for an example test case, a risky scenario test case is developed and our object behavior classification model is implemented on it. 
+
+Test scenario:
+<img width="331" alt="w" src="https://github.com/user-attachments/assets/52767eda-3b3d-4d60-a8f4-53f71afe43f3">
+
+Output:
+![image](https://github.com/user-attachments/assets/2910e2f4-e91d-411c-8c43-02fd3748d2bc)
+
+3D model:
+Safe scenario
+![Screenshot_2024_07_30_193343_07302024193838](https://github.com/user-attachments/assets/c059218e-b8ac-4ee3-acbf-933ecc72d903)
+
+Risky scenario:
+![Screenshot_2024_07_30_193608_07302024193838](https://github.com/user-attachments/assets/85e247ec-ddae-4260-bac1-8db2f3bdfaec)
 
